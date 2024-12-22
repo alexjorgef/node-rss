@@ -1,6 +1,6 @@
 {
-  "name": "@aurorafossorg/rss-reproducible",
-  "version": "1.2.2",
+  "name": "@alexjorgef/rss",
+  "version": "1.2.3",
   "description": "RSS feed generator. Add RSS feeds to any project. Supports enclosures and GeoRSS.",
   "keywords": [
     "rss",
@@ -18,10 +18,10 @@
     "lint": "grunt lint",
     "test:browser": "prova -b"
   },
-  "homepage": "http://github.com/dylang/node-rss",
+  "homepage": "http://github.com/alexjorgef/node-rss",
   "author": {
-    "name": "Dylan Greene",
-    "email": "dylang@gmail.com"
+    "name": "Alexandre Ferreira",
+    "email": "alexjorgef@protonmail.com"
   },
   "contributors": [
     "Dylan Greene <dylang@gmail.com>",
@@ -33,14 +33,15 @@
     "Fred Morstatter",
     "Eric Vantillard <eric.vantillard@evaxion.fr>",
     "Jason Karns <jasonkarns>",
-    "Hannah Wolfe <github.erisds@gmail.com>"
+    "Hannah Wolfe <github.erisds@gmail.com>",
+    "Alexandre Ferreira <alexjorgef@protonmail.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/dylang/node-rss.git"
+    "url": "http://github.com/alexjorgef/node-rss.git"
   },
   "bugs": {
-    "url": "http://github.com/dylang/node-rss/issues"
+    "url": "http://github.com/alexjorgef/node-rss/issues"
   },
   "testling": {
     "files": "test/*.js",

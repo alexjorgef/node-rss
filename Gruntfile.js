@@ -27,7 +27,7 @@ module.exports = function(grunt) {
         },
         release: {
             github: {
-                repo: 'dylang/node-rss',
+                repo: 'alexjorgef/node-rss',
                 accessTokenVar: 'GITHUB_ACCESS_TOKEN'
             }
         }
